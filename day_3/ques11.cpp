@@ -22,13 +22,3 @@ int main() {
 
     return 0;
 }
-
-// Euclidean Algorithm for GCD IDEAL METHOD
-// int findGCD(int a, int b) {
-//     while (b != 0) {
-//         int temp = b;
-//         b = a % b;
-//         a = temp;
-//     }
-//     return a;
-// }
